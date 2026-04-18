@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain_community
+streamlit
+langchain-mistralai
+beautifulsoup4
+pypdf
+langchain-text-splitters
